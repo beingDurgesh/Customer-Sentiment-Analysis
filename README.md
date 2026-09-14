@@ -1,11 +1,6 @@
-# 👨🏻‍💻 Customer Behavior Data Analyst Portfolio Project
+# 👨🏻‍💻 Customer Behavior Data Analyst Project
 
 This project represents a complete, industry-standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
-
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 
 ## 📌 Project Overview
 
@@ -47,20 +42,20 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ```
 customer-shopping-behavior-analysis/
 ├── data/
-│   └── customer_shopping_behavior.csv       # Raw dataset (3,900 rows)
+│   └── customer_shopping_behavior.csv       
 ├── notebooks/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb  # Complete Python workflow
+│   └── Customer_Shopping_Behavior_Analysis.ipynb  
 ├── sql/
-│   └── customer_behavior_sql_queries.sql    # 10 business questions
+│   └── customer_behavior_sql_queries.sql    
 ├── dashboard/
-│   └── customer_behavior_dashboard.pbix     # Power BI dashboard
+│   └── customer_behavior_dashboard.pbix     
 ├── reports/
-│   ├── Business Problem Document.pdf        # Project brief
-│   ├── Customer Shopping Behavior Analysis.pdf  # Analysis report
-│   └── Customer-Shopping-Behavior-Analysis.pptx # Presentation deck
-├── requirements.txt                          # Python dependencies
-├── LICENSE                                   # MIT License
-└── README.md                                 # This file
+│   ├── Business Problem Document.pdf        
+│   ├── Customer Shopping Behavior Analysis.pdf  
+│   └── Customer-Shopping-Behavior-Analysis.pptx 
+├── requirements.txt                          
+├── LICENSE                                   
+└── README.md                                 
 ```
 
 ## 🚀 How to Run This Project
@@ -149,18 +144,11 @@ The Power BI dashboard includes:
 
 MIT License — feel free to fork, star, and use in your portfolio. See [LICENSE](LICENSE) for details.
 
-## 🙏 Acknowledgments
-
-- Original project walkthrough by **Amlan Mohanty** ([YouTube](https://www.youtube.com/@amlanmohanty1))
-- Dataset sourced from the accompanying GitHub repository
-- This implementation adapted for personal portfolio use
-
 ## 📬 Connect
 
 If you found this project helpful, feel free to connect:
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-- **Email**: [Your Email]
+-  ([LinkedIn](https://www.linkedin.com/in/dev-durgesh-shukla/))
+-  ([GitHub](https://github.com/beingDurgesh))
 
 ---
 
